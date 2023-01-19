@@ -4,3 +4,7 @@ The code takes a dirty dataset containing a plethora of factors related to car p
 processed data in several ML models to determine the best way of predicting lemon cars. Final model (the xgboost one) had a test accuracy of 76%.
 
 Link to Kaggle competition: https://www.kaggle.com/competitions/me2300-2022/submissions
+
+Info on the various features can be found in metaData.txt
+
+The training and test datasets can be found in train.csv and test.csv respectively.
